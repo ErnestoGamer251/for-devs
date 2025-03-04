@@ -16,10 +16,10 @@
   - [4] Herramientas de desarrollo
   - [5] Tutoriales
   - [6] Recursos gratuitos
-- [7] Sistema de búsqueda avanzada
-- [8] Sistema de valoración de recursos
-- [9] Funcionalidad para compartir nuevos recursos
-- [10] Sección de tendencias y recursos populares
+ - [7] Sistema de búsqueda avanzada
+ - [8] Sistema de valoración de recursos
+ - [9] Funcionalidad para compartir nuevos recursos
+ - [10] Sección de tendencias y recursos populares
 
 ## 👥 Funcionalidades Sociales
 
