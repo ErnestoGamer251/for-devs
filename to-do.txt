@@ -2,7 +2,6 @@
 
 ## 🚀 Desarrollo Inicial
 
-- [1] Definir la arquitectura del sitio
 - [2] Crear wireframes para las páginas principales
 - [3] Implementar diseño responsive
 - [4] Configurar base de datos para almacenar recursos
